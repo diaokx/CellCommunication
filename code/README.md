@@ -1,1 +1,2 @@
 关于CellCommunication的具体代码
+提前装好RStudio，打开CellCommunication.Rproj定位到项目
